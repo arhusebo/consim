@@ -1,0 +1,6 @@
+[project]
+name = "consim"
+description = "con(venience)sim(ulation) - make it convenient to run experiments and present the results"
+
+[project.scripts]
+hello-world = "scripts.run_experiment:run_experiment"
